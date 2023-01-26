@@ -1,4 +1,4 @@
-# Bike buyers Excel-Project
+# Bike Buyers Excel-Project
 
 ## By Christina Rozario
 
